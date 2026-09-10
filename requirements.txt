@@ -1,0 +1,28 @@
+# Exact historical package versions were not consistently preserved.
+# These are the packages imported/installed by the publication notebooks.
+
+torch
+torchvision
+numpy
+pandas
+scipy
+matplotlib
+Pillow
+opencv-python-headless
+albumentations
+tqdm
+scikit-learn
+statsmodels
+pydicom
+nibabel
+SimpleITK
+scikit-image
+pyarrow
+requests
+beautifulsoup4
+openpyxl
+synapseclient
+cairosvg
+PyMuPDF
+jupyter
+ipykernel
